@@ -21,9 +21,12 @@
   "dependencies": {
     "expo": "^21.0.0",
     "firebase": "^4.5.0",
-    "react": "^16.0.0-alpha.12",
+    "object-path-immutable": "^0.5.2",
+    "ramda": "^0.24.1",
+    "react": "^16.0.0",
     "react-native": "^0.48.4",
     "react-native-material-kit": "^0.4.1",
+    "react-redux": "^5.0.6",
     "reactfire": "^1.0.0"
   }
 }
